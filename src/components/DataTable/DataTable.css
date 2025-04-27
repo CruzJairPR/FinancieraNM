@@ -1,0 +1,22 @@
+/* Personaliza el scroll en la tabla */
+.custom-scrollbar {
+  overflow-y: auto;
+}
+
+/* Personaliza el track del scrollbar (la parte de fondo) */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 10px; /* Ajusta el ancho del scroll */
+}
+
+/* Personaliza el thumb del scrollbar (la parte que se arrastra) */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #b9b5b6; /* Ajusta el color del thumb */
+  border-radius: 10px; /* Bordes redondeados para el thumb */
+  border: 2px solid rgba(0, 0, 0, 0.1); /* Agrega un borde sutil */
+}
+
+/* Personaliza el track del scrollbar */
+.custom-scrollbar::-webkit-scrollbar-track {
+  background-color: rgba(0, 0, 0, 0.1); /* Fondo del track */
+  border-radius: 10px; /* Bordes redondeados para el track */
+}
