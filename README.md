@@ -1,7 +1,6 @@
-# Curadores Front
+#Financiera - NM - Frontend
 
-Una aplicación moderna de React para el sistema de gestión de curadores NMP-H17.
-
+Una aplicación moderna de React para el sistema de gestión de curadores, agenda de citas, valuaciones.
 ## Descripción
 
 Este proyecto es una aplicación front-end construida con React y TypeScript que proporciona una interfaz de usuario para que los curadores gestionen y organicen contenido. Utiliza componentes de Material UI para un diseño consistente y responsive.
